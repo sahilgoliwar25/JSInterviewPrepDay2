@@ -72,9 +72,9 @@ Callback Hell is essentially nested callbacks stacked below one another forming 
     }
 
 ## Q8. Difference between undefined vs not defined vs NaN
-- undefine - This error is caused when the variable is declared but not initialized.
-- not defined - This error is caused when the variable is not declared.
-- NaN(Not a Number) - This error is caused when we are trying to do some task on something which is supposed to be of Number datatype but instead it gets something else.
+1. undefine - This error is caused when the variable is declared but not initialized.
+2. not defined - This error is caused when the variable is not declared.
+3. NaN(Not a Number) - This error is caused when we are trying to do some task on something which is supposed to be of Number datatype but instead it gets something else.
 
     Example:
     let a;
